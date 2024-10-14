@@ -159,11 +159,11 @@ function App() {
           multiple
           options={kunnat}
           value={values}
-          onChange={(event, newValue) => {
+          onChange={(_, newValue) => {
             setValues(newValue);
           }}
           inputValue={inputValue}
-          onInputChange={(event, newInputValue) => {
+          onInputChange={(_, newInputValue) => {
             setInputValue(newInputValue);
           }}
         />
