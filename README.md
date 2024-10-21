@@ -1,6 +1,6 @@
 # Early Education Search Engine
 
-An search engine done as a pre-job interview task. The search engine can be used for viewing the percentages of finnish and non-finnish speaking childern in different municipalities in Finland. 
+An search engine done as a pre-job interview task. The search engine can be used for viewing the percentages of finnish and non-finnish speaking childern in early childhood education in different municipalities in Finland. 
 
 ## The instructions for building the search engine were:
 
